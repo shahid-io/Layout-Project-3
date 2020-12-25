@@ -1,0 +1,88 @@
+.container{
+    margin:0 auto;
+    padding:0;
+    background-color:MISTYROSE;
+    width:100%; height:auto;
+  }
+  .nav-bar{
+    background-color:SPRINGGREEN;
+    text-align:center;
+  } .sub-nav, ul,li,a{
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+    
+  }
+  
+  .section{
+    background-color:PALEGREEN;
+    width: auto;
+  }
+  .info{
+    background-color:LIGHTGREEN;
+    justify-content:space-around;
+    margin-right:5%;
+    margin-left:5%;
+    margin:auto;
+    padding:10px;
+    height:100px;
+    display:flex;
+    text-align:center;
+  }
+  .sub-section,.menu-bar{
+    width:200px;
+    height:100px;
+    /* box-shadow: 5px 13px 10px whitesmoke; */
+    
+  }
+  .logo{
+    background-color:LIGHTSKYBLUE;
+    width:15%;
+  }
+  .sub-section{
+      background-color:DARKORANGE;
+      width:40%;
+  }
+  .menu-bar{
+    background-color:ORANGERED;
+    width:40%;
+  } .logo,.sub-section,.menu-bar{
+    height:100px;
+  }
+  .section-contents{
+    background-color:LAVENDERBLUSH;
+    margin-left:5%;margin-right:5%;
+    width:inherit; height: 200px;
+  }
+  .content-head{
+    background-color:LIGHTSALMON;
+    width:inherit ; height: 70px;
+    
+  }.inside-head{
+    background-color:LIGHTGREEN;
+    box-shadow: 5px 3px 10px whitesmoke;
+    text-align: center;
+    margin: 0 auto;
+    width: 20%; 
+    
+  }
+  .c-1{background-color:VIOLET;}
+  .c-2{background-color:STEELBLUE;}
+  .c-3{background-color:MEDIUMSEAGREEN;}
+  .c-4{background-color:TURQUOISE;}
+  
+  .c-1,.c-2,.c-3,.c-4{
+    width:150px; height: 100px;
+    justify-content: space-around;
+    box-shadow: 11px 9px 6px grey;
+  }.contents{
+    text-align: center;
+    justify-content:space-around;
+    display: flex;
+    margin-top: 1.3%;
+  /*   box-shadow: 11px 9px 6px darkgrey; */
+  }
+  
+  /* Read more section */
+  
+  
